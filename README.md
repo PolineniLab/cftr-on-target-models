@@ -4,13 +4,13 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 
 # Notebook Order of Execution: 
 
-1."pwCF Unsupervised Machine Learning.ipynb"
-↓
-2."pwCF Supervised Machine Learning and Associations.ipynb"
-↓
-3."CF Carriers Association Validation (part i).ipynb"
-↓
-4."CF Carriers Association Validation (part ii).ipynb"
+`1. pwCF Unsupervised Machine Learning.ipynb`  
+  ⬇  
+`2. pwCF Supervised Machine Learning and Associations.ipynb`  
+  ⬇  
+`3. CF Carriers Association Validation (Part I).ipynb`  
+  ⬇  
+`4. CF Carriers Association Validation (Part II).ipynb`
 
 # Notebook Overview
 
