@@ -27,7 +27,7 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 2.**"pwCF Supervised Machine Learning and Associations.ipynb"**
 - Calculates phase-agnostic linkage disequilibrium among variants within each intron.
 - Trains XGBoost models using pre-optimized hyperparameters (via GridSearchCV). Note: First-time users must perform and save the hyperparameter tuning.
-- Visualizes feature importance of intronic variants for predicting exonic genotypes (F508del, V470M, Combined) using bar and dot plots.
+- Visualizes feature importance of intronic variants for predicting exonic CFTR genotypes (F508del, V470M, Combined) using bar and dot plots.
 - Summarizes variant contributions per intron for each prediction task.
 - Evaluates model performance using confusion matrices and precision-recall curves.
 - Computes class-specific average precision scores from the precision-recall curves. 
