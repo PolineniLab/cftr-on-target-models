@@ -49,19 +49,19 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 - Used to generate Figures 8, 9 and Tables S4, S5, S6.
 
 # 💻 Package/Software Versions used for this analysis
-python version: 3.10.12
-pandas version: 2.0.3
-os version: posix
-numpy version: 1.23.5
-hail version: 0.2.130.post1-c69cd67afb8b
-openpyxl version: 3.1.5
-matplotlib version: 3.7.2
-json version: 2.0.9
-plotly version: 5.23.0
-scipy version: 1.13.0
-seaborn version: 0.12.2
-graphviz version: 0.20.3
-mpl_axes_aligner version: 1.3
-sklearn version: 1.3.0
-XGBoost version: 3.0.0
-SHAP version: 0.47.2
+- python version: 3.10.12
+- pandas version: 2.0.3
+- os version: posix
+- numpy version: 1.23.5
+- hail version: 0.2.130.post1-c69cd67afb8b
+- openpyxl version: 3.1.5
+- matplotlib version: 3.7.2
+- json version: 2.0.9
+- plotly version: 5.23.0
+- scipy version: 1.13.0
+- seaborn version: 0.12.2
+- graphviz version: 0.20.3
+- mpl_axes_aligner version: 1.3
+- sklearn version: 1.3.0
+- XGBoost version: 3.0.0
+- SHAP version: 0.47.2
