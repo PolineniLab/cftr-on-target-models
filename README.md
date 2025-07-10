@@ -63,4 +63,4 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 - mpl_axes_aligner version: 1.3
 - sklearn version: 1.3.0
 - XGBoost version: 3.0.0
-- SHAP version: 0.47.2
+- SHAP version: Custom, refer to the forked SHAP repo here https://github.com/PolineniLab/Edited_Shap_Package
