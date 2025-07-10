@@ -14,7 +14,7 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 
 # Notebook Overview
 
-1.**pwCF Unsupervised Machine Learning.ipynb**
+1.**  pwCF Unsupervised Machine Learning.ipynb**
 - Retrieves clinical, demographic, and genomic data for the people with CF (pwCF) cohort.
 - Defines intronic regions and organizes variants by intron across all individual.
 - Filters individuals with CF based on genetic relatedness.
