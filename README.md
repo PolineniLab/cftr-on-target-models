@@ -51,7 +51,6 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 # 💻 Package/Software Versions used for this analysis
 - python version: 3.10.12
 - pandas version: 2.0.3
-- os version: posix
 - numpy version: 1.23.5
 - hail version: 0.2.130.post1-c69cd67afb8b
 - openpyxl version: 3.1.5
