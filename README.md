@@ -1,6 +1,6 @@
 # 🧬 Lab Project: Machine learning models of CFTR genetic diversity predict on-target effects of gene editing as a therapeutic strategy in Cystic Fibrosis
 
-This repository contains 4 jupyter notebooks which are modular and sequentially build upon eachother. These jupyter notebooks were collectively used to generate all the results for the paper. 
+This repository contains 4 jupyter notebooks which are modular and sequentially build upon eachother. These jupyter notebooks were collectively used within the All of Us Database to generate the results for the paper. 
 
 # Notebook Order of Execution: 
 
