@@ -14,7 +14,7 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 
 # Notebook Overview
 
-1.**  pwCF Unsupervised Machine Learning.ipynb**
+1. **pwCF Unsupervised Machine Learning.ipynb**
 - Retrieves clinical, demographic, and genomic data for the people with CF (pwCF) cohort.
 - Defines intronic regions and organizes variants by intron across all individual.
 - Filters individuals with CF based on genetic relatedness.
@@ -24,7 +24,7 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 - Performs unsupervised machine learning (PCA) to reduce dimensionality and annotate patterns based on demographic or genomic factors.
 - Used to generate Figures 1, 2, S2, S3, S4, and Table 1 in the manuscript.
 
-2.**pwCF Supervised Machine Learning and Associations.ipynb**
+2. **pwCF Supervised Machine Learning and Associations.ipynb**
 - Calculates phase-agnostic linkage disequilibrium among variants within each intron.
 - Trains XGBoost models using pre-optimized hyperparameters (via GridSearchCV). Note: First-time users must perform and save the hyperparameter tuning.
 - Visualizes feature importance of intronic variants for predicting exonic CFTR genotypes (F508del, V470M, Combined) using bar and dot plots.
@@ -34,14 +34,14 @@ This repository contains 4 jupyter notebooks which are modular and sequentially 
 - Conducts one-tailed Fisher’s exact tests (greater) to validate model-identified associations, exporting results for downstream use.
 - Used to generate Figures 3–7, S1, S5, and Tables S2, S3.
 
-3.**CF Carriers Association Validation (part i).ipynb**
+3. **CF Carriers Association Validation (part i).ipynb**
 - Defines and organizes variants by intronic region for individuals in the CF carrier cohort.
 - Filters individuals who are CF carriers based on relatedness.
 - Performs quality control on intronic variants.
 - Converts genotype calls to numerical format and uploads to the secure cloud Workbucket.
 - Harmonizes variant locus naming across pwCF and CF carrier cohorts to ensure comparability (due to cohort size differences, variant filtering thresholds may differ resulting in different locus names LocusA (1) vs. LocusA (B) between cohorts).
 
-4.**CF Carriers Association Validation (part ii).ipynb**
+4. **CF Carriers Association Validation (part ii).ipynb**
 - Performs one-tailed Fisher’s exact tests in CF carriers to validate pwCF model-predicted associations.
 - Merges statistical results from both cohorts into a unified dataset.
 - Annotates variants based on eQTL status, identifying unique eQTLs per model.
